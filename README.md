@@ -1,6 +1,6 @@
-# 📄 Chat with PDF using Google Gemini
+# 📄 Chat with PDF
 
-A Streamlit web application that allows users to upload multiple PDF documents, process them, and ask natural language questions about their content. The app uses Google's Gemini 2.0 Flash Lite model for fast, efficient answering and LangChain for document processing.
+A Streamlit web application that allows users to upload multiple PDF documents, process them, and ask natural language questions about their content. The app uses Google's Gemini 2.5 Flash Lite model for fast, efficient answering and LangChain for document processing.
 
 ## 🌟 Features
 * **Multiple PDF Uploads:** Process several PDF documents simultaneously.
@@ -13,7 +13,7 @@ A Streamlit web application that allows users to upload multiple PDF documents, 
 * **PDF Processing:** PyPDF2
 * **Orchestration:** LangChain
 * **Embeddings:** Google Generative AI (`models/gemini-embedding-001`)
-* **LLM:** Google Generative AI (`gemini-2.0-flash-lite`)
+* **LLM:** Google Generative AI (`gemini-2.5-flash-lite`)
 * **Vector Store:** FAISS
 
 ## 📁 Project Structure & Setup Instructions

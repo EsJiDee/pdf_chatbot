@@ -22,7 +22,8 @@ A Streamlit web application that allows users to upload multiple PDF documents, 
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/EsJiDee/pdf_chatbot.git](https://github.com/EsJiDee/pdf_chatbot.git)
+git clone https://github.com/EsJiDee/pdf_chatbot.git
+
 cd pdf_chatbot
 ```
 
